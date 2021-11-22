@@ -4,6 +4,10 @@ bin/
 #O ignoramos todos los archivos .class
 /**/*.class
 
+/notes/**/*.txt
+!notes/README.txt
+
+
 .metadata
 tmp/
 *.tmp
